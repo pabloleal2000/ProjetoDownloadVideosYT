@@ -1,9 +1,9 @@
 # -Projeto-download-videos-YT
-#Como Utilizar o programa
-#Apenas abra o arquivo EXE vai ter um campo para inserir a URL do video em que deseja fazer o 
-#Download tanto do MP3 ou MP4
-#Apenas cole a URL e clique no que deseja fazer Download MP3 ou MP4 ele ira criar uma pasta 
-#em seu Desktop e la ficara todos os downloads feitos 
+###Como Utilizar o programa
+Apenas abra o arquivo EXE vai ter um campo para inserir a URL do video em que deseja fazer o 
+Download tanto do MP3 ou MP4
+Apenas cole a URL e clique no que deseja fazer Download MP3 ou MP4 ele ira criar uma pasta 
+em seu Desktop e la ficara todos os downloads feitos###
 
 
 Esse projeto seria uma criação de uso pessoal onde encontrei dificuldades de utilizar sites
