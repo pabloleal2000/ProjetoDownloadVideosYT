@@ -1,4 +1,4 @@
-# -Projeto-download-videos-YT
+# ProjetoDownloadVideosYT
 Como utilizar o programa:
 Basta abrir o arquivo EXE. Você encontrará um campo para inserir a URL do vídeo do qual deseja fazer o download, seja em formato MP3 ou MP4. Basta colar a URL e clicar na opção desejada (MP3 ou MP4). O programa criará uma pasta em sua área de trabalho onde todos os downloads serão armazenados.
 
