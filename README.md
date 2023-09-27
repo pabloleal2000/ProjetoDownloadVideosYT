@@ -7,5 +7,3 @@ Este projeto foi criado para uso pessoal, pois encontrei dificuldades ao utiliza
 
 Aceito sugestões de melhorias para o meu código e dicas construtivas para o meu projeto
 
-Email: pablo.borbaac@gmail.com 
-Telefone: (11)94008-0359
